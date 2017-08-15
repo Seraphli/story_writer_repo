@@ -9,3 +9,5 @@ Our experiments compare the performance of various different versions of the sur
 It is better on continuous control tasks.
 
 We can see that `!$L^{CLIP}$` is a lower bound on `!$L^{CPI}$` , with a penalty for having too large of a policy update.
+
+In our experiments, we found that the KL penalty performed worse than the clipped surrogate objective, however, we’ve included it here because it’s an important baseline.
