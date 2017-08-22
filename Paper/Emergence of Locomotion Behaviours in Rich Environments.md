@@ -15,3 +15,5 @@ The reward consists of a main component proportional to the velocity along the x
 We structure our policy into two subnetworks, one of which receives only proprioceptive information, and the other which receives only exteroceptive information.
 
 All of these behaviors emerged spontaneously, without special cased shaping rewards to induce each separate behaviour. 
+
+It discovers that jumping up or forward (in some cases with surprising accuracy) is a suitable strategy to overcome hurdles, and gaps, and it learns to navigate walls, turning left and right as appropriate – in both cases despite **only receiving reward for moving forward**.
