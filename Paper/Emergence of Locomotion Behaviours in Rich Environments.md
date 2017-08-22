@@ -13,3 +13,5 @@ First, we build upon robust policy gradient algorithms, such as trust region pol
 The reward consists of a main component proportional to the velocity along the x-axis, encouraging the agent to make forward progress along the track, plus a small term penalizing torques. 
 
 We structure our policy into two subnetworks, one of which receives only proprioceptive information, and the other which receives only exteroceptive information.
+
+All of these behaviors emerged spontaneously, without special cased shaping rewards to induce each separate behaviour. 
