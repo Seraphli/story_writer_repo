@@ -14,3 +14,7 @@ GAE(γ; 1) is γ-just regardless of the accuracy of V , but it has high variance
 terms. GAE(γ; 0) is γ-just for V = V π;γ and otherwise induces bias, but it typically has much
 lower variance. The generalized advantage estimator for 0 < λ < 1 makes a compromise between
 bias and variance, controlled by parameter λ.
+
+https://en.wikipedia.org/wiki/Moving_average#Exponential_moving_average
+The generalized advantage estimator GAE(γ; λ) is defined as the exponentially-weighted average
+of these k-step estimators.
