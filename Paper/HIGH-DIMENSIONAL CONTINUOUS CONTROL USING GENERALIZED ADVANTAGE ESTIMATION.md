@@ -18,3 +18,6 @@ bias and variance, controlled by parameter λ.
 https://en.wikipedia.org/wiki/Moving_average#Exponential_moving_average
 The generalized advantage estimator GAE(γ; λ) is defined as the exponentially-weighted average
 of these k-step estimators.
+
+https://github.com/openai/baselines/blob/902ffcb7674dd9f3c08a0037ae57ada852f13d74/baselines/common/misc_util.py#L123-L154
+So it remembers me about the implement of running average in openai baselines.
