@@ -21,3 +21,5 @@ of these k-step estimators.
 
 https://github.com/openai/baselines/blob/902ffcb7674dd9f3c08a0037ae57ada852f13d74/baselines/common/misc_util.py#L123-L154
 So it remembers me about the implement of running average in openai baselines.
+
+So that is why actor-critic is more efficient, because the value estimation is more correct.
