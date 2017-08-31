@@ -14,3 +14,5 @@ In our experiments however, providing location-based addressing as a primitive o
 For content-addressing, each head (whether employed for reading or writing) first produces a length M key vector kt that is compared to each vector Mt(i) by a similarity measure K[ ·, ·].
 
 In our current implementation, the similarity measure is cosine similarity
+
+However, one limitation of a feedforward controller is that the number of concurrent read and write heads imposes a bottleneck on the type of computation the NTM can perform. 
