@@ -12,3 +12,5 @@ Arithmetic problems fall into this category: the variable x and the variable y c
 In our experiments however, providing location-based addressing as a primitive operation proved essential for some forms of generalisation, so we employ both mechanisms concurrently.
 
 For content-addressing, each head (whether employed for reading or writing) first produces a length M key vector kt that is compared to each vector Mt(i) by a similarity measure K[ ·, ·].
+
+In our current implementation, the similarity measure is cosine similarity
