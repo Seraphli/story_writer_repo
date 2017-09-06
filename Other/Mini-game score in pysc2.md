@@ -15,8 +15,14 @@ CollectMineralsAndGas
 Deepmind
 2400
 
+CollectMineralShards
+
+
 DefeatRoaches
 56
+
+DefeatZerglingsAndBanelings
+
 
 FindAndDefeatZerglings
 46
