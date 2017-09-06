@@ -23,7 +23,7 @@ DefeatRoaches
 
 DefeatZerglingsAndBanelings
 234 (After three runs the game get stuck, and the game would generate new enemies)
-(This game will get stuck after eliminate all emenies)
+(This game will get stuck after eliminate all enemies)
 
 FindAndDefeatZerglings
 46
