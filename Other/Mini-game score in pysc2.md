@@ -16,7 +16,7 @@ Deepmind
 2400
 
 CollectMineralShards
-
+143
 
 DefeatRoaches
 56
