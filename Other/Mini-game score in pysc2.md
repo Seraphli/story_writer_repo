@@ -12,8 +12,6 @@ BuildMarines
 CollectMineralsAndGas
 5621
 5487
-Deepmind
-2400
 
 CollectMineralShards
 143
