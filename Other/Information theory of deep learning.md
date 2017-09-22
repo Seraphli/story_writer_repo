@@ -16,7 +16,11 @@ The image about mutual information can tell whether the network is capable of so
 
 ![][3]
 
+Noise help network to concontrate.
+![][4]
+
 
   [1]: https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/
   [2]: ./images/1506073437704.jpg
   [3]: ./images/1506073989442.jpg
+  [4]: ./images/1506074130513.jpg
