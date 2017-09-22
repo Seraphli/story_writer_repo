@@ -16,7 +16,7 @@ The image about mutual information can tell whether the network is capable of so
 
 ![][3]
 
-Noise help network to concontrate.
+Noise help network to concentrate.
 ![][4]
 
 
