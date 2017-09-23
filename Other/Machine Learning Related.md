@@ -18,8 +18,14 @@ Using Fast Weights to Attend to the Recent Past
 
 https://arxiv.org/abs/1610.06258
 
-->
+-->
 
 "Capsule" proposed by Hinton
 
 Seperate in different parts, learning different features.
+
+-->
+
+Wake-sleep algorithm
+
+http://www.cs.toronto.edu/~fritz/absps/ws.pdf
