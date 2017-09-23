@@ -12,6 +12,8 @@ Heroes of Deep Learning: Andrew Ng interviews Geoffrey Hinton
 
 https://www.youtube.com/watch?v=-eyhCTvrEtE
 
+Hinton: When you have what you think is a good idea and other people think is complete rubbish, that's the sign of a really good idea.
+
 -->
 
 Using Fast Weights to Attend to the Recent Past
