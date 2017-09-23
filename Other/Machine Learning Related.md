@@ -6,6 +6,8 @@ Geoffrey Hinton talk "What is wrong with convolutional neural nets ?"
 
 https://www.youtube.com/watch?v=rTawFwUvnLE
 
+![][1]
+
 ->
 
 Heroes of Deep Learning: Andrew Ng interviews Geoffrey Hinton
@@ -31,3 +33,6 @@ Seperate in different parts, learning different features.
 Wake-sleep algorithm
 
 http://www.cs.toronto.edu/~fritz/absps/ws.pdf
+
+
+  [1]: ./images/1506187250669.jpg
