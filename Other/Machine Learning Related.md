@@ -12,6 +12,12 @@ https://www.youtube.com/watch?v=rTawFwUvnLE
 
 Kind of like the compression view of deep learning. The right thing to do is compressing information. In this, 5 is the most concentrated one.
 
+Related:
+
+What is wrong with convolutional neural nets? Fields Institute, 2017 | Geoffrey Hinton, U of Toronto - YouTube
+
+https://www.youtube.com/watch?v=Mqt8fs6ZbHk
+
 ->
 
 Heroes of Deep Learning: Andrew Ng interviews Geoffrey Hinton
