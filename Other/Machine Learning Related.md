@@ -8,6 +8,10 @@ https://www.youtube.com/watch?v=rTawFwUvnLE
 
 ![][1]
 
+![][2]
+
+Kind of like the compression view of deep learning. The right thing to do is compressing information. In this, 5 is the most concentrated one.
+
 ->
 
 Heroes of Deep Learning: Andrew Ng interviews Geoffrey Hinton
@@ -36,3 +40,4 @@ http://www.cs.toronto.edu/~fritz/absps/ws.pdf
 
 
   [1]: ./images/1506187250669.jpg
+  [2]: ./images/1506187409834.jpg
