@@ -32,6 +32,12 @@ Using Fast Weights to Attend to the Recent Past
 
 https://arxiv.org/abs/1610.06258
 
+--->
+
+Using Fast Weights to Attend to the Recent Past, NIPS 2016 | Jimmy Ba, University of Toronto
+
+![][3]
+
 -->
 
 "Capsule" proposed by Hinton
@@ -47,3 +53,4 @@ http://www.cs.toronto.edu/~fritz/absps/ws.pdf
 
   [1]: ./images/1506187250669.jpg
   [2]: ./images/1506187409834.jpg
+  [3]: ./images/1506321551989.jpg
