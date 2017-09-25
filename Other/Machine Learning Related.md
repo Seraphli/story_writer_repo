@@ -36,6 +36,8 @@ https://arxiv.org/abs/1610.06258
 
 Using Fast Weights to Attend to the Recent Past, NIPS 2016 | Jimmy Ba, University of Toronto
 
+https://www.youtube.com/watch?v=Hd20zGKAdoI
+
 ![][3]
 
 ![][4]
