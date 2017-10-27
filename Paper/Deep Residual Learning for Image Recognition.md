@@ -21,3 +21,7 @@ How they do it
 2. instead of using one layer to output hidden layer result H(x), they use multiple layers to represent a hidden layer
 3. there is a residual between hidden layer output H(x) and input x
 4. use F(x) to represent H(x)-x, which F(x) is approximated by multiple nonlinear layers
+
+ResNet architecture
+
+http://ethereon.github.io/netscope/#/gist/4758dff0d676e0d70d3310d9466dec68
