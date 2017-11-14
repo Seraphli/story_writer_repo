@@ -38,4 +38,4 @@ class WSClient(WebSocketClient):
 
 ```
 
-It worked well for like a month. But when I implement several parallel connections using multiprocessing, weird things happened, the queue couldn't get the reply and so the program stuck there.
+It worked well for like a month. But when I implement several parallel connections using multiprocessing, weird things happened, the queue couldn't get the reply and so the program stuck in there.
