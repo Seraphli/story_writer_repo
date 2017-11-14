@@ -73,4 +73,7 @@ class WSClient(WebSocketClient):
         self.msg_q.put(m.data)
 		
 ```
-So you can't use the simple version of queue in a multiprocessing environment. I think the reason is it is not process safe.
+So you can't use the simple version of queue in a multiprocessing environment. I think the reason is it is not process safe, so it can't deal any data coming from another process.
+
+Another bug is about pickle and protobuf.
+You can not push a protobuf object to a multiprocessing queue, because the object can not be pickled.
