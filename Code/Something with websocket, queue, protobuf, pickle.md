@@ -77,3 +77,4 @@ So you can't use the simple version of queue in a multiprocessing environment. I
 
 Another bug is about pickle and protobuf.
 You can not push a protobuf object to a multiprocessing queue, because the object can not be pickled.
+So the only way of doing it is to use SerializeToString before push it to the queue and ParseFromString after get object out of the queue.
