@@ -3,6 +3,7 @@ title: Something with websocket, queue, protobuf, pickle
 ---
 
 Last day I encountered with two bug.
+First one is related with muitiprocessing and queue.
 I orignally used queue in my websocket communication part.
 
 ```
@@ -72,3 +73,4 @@ class WSClient(WebSocketClient):
         self.msg_q.put(m.data)
 		
 ```
+So you can't use the simple version of queue in a multiprocessing environment. I think the reason is it is not process safe.
