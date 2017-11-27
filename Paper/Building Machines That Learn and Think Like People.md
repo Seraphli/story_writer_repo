@@ -10,3 +10,5 @@ Deep reinforcement learning systems for playing Atari games have had some impres
 
 In recent experiments, Tsividis, Tenenbaum, and Schulz (2015) found that children can use high-level abstract features of a domain to guide
 hypothesis selection, by reasoning about distributional properties like the ratio of seeds to flowers, and dynamical properties like periodic or monotonic relationships between causes and effects (see also Magid, Sheskin, & Schulz, 2015).
+
+In contrast, trying to build these representations from scratch using backpropagation, deep Q-learning or any stochastic gradient-descent weight update rule in a fixed network architecture may be unfeasible regardless of how much training data are available.
